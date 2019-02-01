@@ -5,4 +5,4 @@ run:
 	python draw.py
 
 clean:
-	rm *image*
+	rm -f *image*
